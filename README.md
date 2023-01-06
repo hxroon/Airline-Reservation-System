@@ -6,4 +6,5 @@ This project was created using Java. It's an airline management program useful f
 * Credit card details
 * Number of passenger/s
 * Seat number
+
 It utilizes a wide array of components such as Arraylists, Binary Search, Array Based GUI's, Matrix Arrays, and Object Oriented Programming practices. 
